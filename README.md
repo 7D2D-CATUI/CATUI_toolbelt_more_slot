@@ -1,2 +1,5 @@
 # CATUI_toolbelt_more_slot
-A 7D2D simple UI From BigCat.
+More toolbelt slots for CATUI.
+
+## How to use
+You can define your toolbelt slots by edit `ModConfig.xml` and `/Config/XUi/windows.xml` files.

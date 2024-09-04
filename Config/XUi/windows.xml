@@ -1,0 +1,4 @@
+<CATUI>
+	<set xpath="/windows/window[@name='windowToolbelt']/rect[@controller='Toolbelt']/grid[@name='inventory']/@cols">12</set>
+	<set xpath="/windows/window[@name='windowToolbelt']/rect[@controller='Toolbelt']/grid[@name='inventory2']/@cols">12</set>
+</CATUI>
